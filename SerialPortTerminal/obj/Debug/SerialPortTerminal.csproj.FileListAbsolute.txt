@@ -1,0 +1,43 @@
+Z:\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+Z:\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+Z:\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+Z:\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+Z:\Downloads\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+Z:\Downloads\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+F:\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+F:\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+F:\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+F:\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+F:\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+F:\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\water resources\Desktop\9405441318\SerialPortTerminal\obj\Debug\SerialPort Terminal.application

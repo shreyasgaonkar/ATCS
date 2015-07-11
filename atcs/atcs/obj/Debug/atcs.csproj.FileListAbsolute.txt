@@ -1,0 +1,5 @@
+c:\users\water resources\documents\visual studio 2010\Projects\atcs\atcs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\water resources\documents\visual studio 2010\Projects\atcs\atcs\bin\atcs.dll
+C:\Users\water resources\documents\visual studio 2010\Projects\atcs\atcs\bin\atcs.pdb
+C:\Users\water resources\documents\visual studio 2010\Projects\atcs\atcs\obj\Debug\atcs.dll
+C:\Users\water resources\documents\visual studio 2010\Projects\atcs\atcs\obj\Debug\atcs.pdb
